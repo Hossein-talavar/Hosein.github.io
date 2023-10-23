@@ -1,0 +1,159 @@
+body::before{
+    display: block;
+    content: '';
+    height: 60px;
+}
+
+
+
+
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+.btn-h{
+    background-color: #fff;
+    color:rgb(31, 110, 80); 
+    border-radius: 8px;
+
+}
+.btn-h:hover{
+    color: #fff;
+    background-color:rgb(18, 51, 38); 
+    border: 2px solid rgba(142, 233, 196, 0.959);
+
+
+    
+}
+
+
+.main-page{
+    color:rgb(40, 141, 102); 
+    border: 1px solid rgb(40, 141, 102);
+    border-radius: 5px;
+}
+
+.dmenu{
+    border: 1px solid rgb(40, 141, 102);
+    background-color: rgb(240, 240, 240);
+}
+.nav-item-b{
+
+    color: rgba(42, 153, 98, 0.986);
+
+    
+}
+
+
+.nav-item-b:hover{
+    background-color: rgb(97, 185, 151);
+    border-radius: 5px;
+    color: #fff;
+    
+
+}
+.main-page-h:hover{
+    font-size: 1.4rem;
+}
+
+.text-warning{
+    color: rgba(42, 153, 98, 0.986) !important;
+
+}
+
+
+.bg-primary{
+    background-color:  rgba(42, 153, 98, 0.986) !important;
+}
+
+
+.main-page:hover{
+    background-color: rgb(36, 151, 107);
+    color: #fff;
+    border: 3px solid rgba(142, 233, 196, 0.959);
+
+}
+.logo{
+    color:rgb(17, 78, 55)
+
+}
+.logo:hover{
+    background-color: rgb(36, 151, 107);   
+    color: #fff;
+    border-radius: 5px;
+    border-width: 6px;
+}
+
+.bg-h{
+
+    background-color:#074a2d;
+
+}
+
+.bg-h2{
+    background-color: #074a2d;
+    color: #fff;
+}
+.bg-h2:hover{
+    background-color:rgb(110, 109, 109);
+    color:black;
+}
+
+.text-color{
+    color: rgb(83, 80, 80);
+}
+
+.img-fluid-h{
+    width: 80%;
+}
+
+
+
+.main-page2{
+    color: #fff;
+    background-color:rgb(40, 141, 102); 
+    border-radius: 10px;
+    
+
+
+
+}
+
+
+
+
+.main-page-h2:hover{
+
+    color: rgb(40, 141, 102);
+    background-color: #fff;
+    border: 2px solid rgb(40, 141, 102);
+    border-radius: 10px;
+
+}
+.colorh{
+    justify-content: center;
+    border: 1px solid rgb(40, 141, 102) ;
+    border-radius: 5px;
+}
+
+.bg-warning{
+    background-color: rgb(81, 194, 151) !important;
+}
+
+footer p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact{
+    color: rgb(94, 92, 92);
+}
+
+
+.contact:hover{
+    color: rgb(40, 141, 102);
+
+}
